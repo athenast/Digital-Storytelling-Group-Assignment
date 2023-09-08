@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 # Presentation Document
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### Stavridi Athena:  (Papavasileiou Ioannis 
+### University Registration Number: dpsd19122 (dpsd19092)
+### GitHub Personal Profile: athenast + 
 
 ![Slide1](https://github.com/athenast/Digital-Storytelling-Group-Assignment/assets/101419410/87cb87e9-0f0f-4cf7-8f8e-69b3ed7cc4bb)
 ![Slide2](https://github.com/athenast/Digital-Storytelling-Group-Assignment/assets/101419410/53d95593-3f1a-4971-a68b-0e59e7650b11)
