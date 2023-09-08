@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 # Presentation Document
 
-### Stavridi Athena:  (Papavasileiou Ioannis 
+### Stavridi Athena:  (Papavasileiou Ioannis)
 ### University Registration Number: dpsd19122 (dpsd19092)
 ### GitHub Personal Profile: athenast + 
 
